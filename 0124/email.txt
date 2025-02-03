@@ -1,0 +1,14 @@
+joao.silva@gmail.com
+maria_oliveira@outlook.com
+ana123@yahoo.com.br
+contato@empresa.com
+jose-da-silva@provedor.net
+email.teste@sub.dominio.com
+andre.prisco@furg.br
+joao.silva_gmail.com
+@outlook.com
+maria@@yahoo.com.br
+anateste@.com
+email@dominio..com
+ana@dominio,com
+sem-arroba-sem-nada
